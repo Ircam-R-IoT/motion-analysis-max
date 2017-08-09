@@ -4,7 +4,14 @@
 
 #### installation
 
-Drop all subfolders somewhere into `Documents/Max 7/Library`.
+Drop all subfolders somewhere into `Documents/Max 7/Library`.  
+`max-motion-features` contains a collection of max abstractions computing some
+feature descriptors specific to gesture signals, from accelerometer and gyroscope input.  
+The three other folders contain nearly the same patches except that they all use
+their own riot input object version :
+* `max-bitalino-riot` uses the `bitalino-riot` abstraction
+* `max-ircam-riot-v1.7` uses the `riot-v1.7` abstraction
+* `max-ircam-riot-v1.8` uses the `riot` abstraction
 
 #### getting started
 
