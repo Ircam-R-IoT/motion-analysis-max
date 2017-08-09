@@ -1541,7 +1541,7 @@
 					"outlettype" : [ "", "", "", "", "", "int", "", "float" ],
 					"patching_rect" : [ 29.0, 20.0, 488.0, 22.0 ],
 					"style" : "",
-					"text" : "ircam-riot 0 8888"
+					"text" : "riot 0 8888"
 				}
 
 			}
@@ -2333,7 +2333,7 @@
 			}
  ],
 		"dependency_cache" : [ 			{
-				"name" : "ircam-riot.maxpat",
+				"name" : "riot.maxpat",
 				"bootpath" : "~/Projects/git-repositories/Ircam-R-IoT/motion-analysis-max/max-ircam-riot-v1.8",
 				"type" : "JSON",
 				"implicit" : 1
