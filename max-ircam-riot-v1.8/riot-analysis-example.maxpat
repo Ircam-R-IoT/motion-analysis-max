@@ -1225,9 +1225,9 @@
 					"maxclass" : "newobj",
 					"numinlets" : 3,
 					"numoutlets" : 0,
-					"patching_rect" : [ 47.999939, 81.0, 156.5, 22.0 ],
+					"patching_rect" : [ 49.999939, 81.0, 156.5, 22.0 ],
 					"style" : "",
-					"text" : "record-save"
+					"text" : "riot-record-save"
 				}
 
 			}
@@ -2340,43 +2340,43 @@
 			}
 , 			{
 				"name" : "freefall.maxpat",
-				"bootpath" : "~/Projects/git-repositories/Ircam-R-IoT/motion-analysis-max/max-ircam-riot-v1.8",
+				"bootpath" : "~/Documents/Max 7/Packages/MuBuForMax 2/examples/riot",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spin.maxpat",
-				"bootpath" : "~/Projects/git-repositories/Ircam-R-IoT/motion-analysis-max/max-ircam-riot-v1.8",
+				"bootpath" : "~/Documents/Max 7/Packages/MuBuForMax 2/examples/riot",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "kick.maxpat",
-				"bootpath" : "~/Projects/git-repositories/Ircam-R-IoT/motion-analysis-max/max-ircam-riot-v1.8",
+				"bootpath" : "~/Documents/Max 7/Packages/MuBuForMax 2/examples/riot",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "still.maxpat",
-				"bootpath" : "~/Projects/git-repositories/Ircam-R-IoT/motion-analysis-max/max-ircam-riot-v1.8",
+				"bootpath" : "~/Documents/Max 7/Packages/MuBuForMax 2/examples/riot",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "record-save.maxpat",
+				"name" : "riot-record-save.maxpat",
 				"bootpath" : "~/Projects/git-repositories/Ircam-R-IoT/motion-analysis-max/max-ircam-riot-v1.8",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "shake.maxpat",
-				"bootpath" : "~/Projects/git-repositories/Ircam-R-IoT/motion-analysis-max/max-ircam-riot-v1.8",
+				"bootpath" : "~/Documents/Max 7/Packages/MuBuForMax 2/examples/riot",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "intensity.maxpat",
-				"bootpath" : "~/Projects/git-repositories/Ircam-R-IoT/motion-analysis-max/max-ircam-riot-v1.8",
+				"bootpath" : "~/Documents/Max 7/Packages/MuBuForMax 2/examples/riot",
 				"type" : "JSON",
 				"implicit" : 1
 			}

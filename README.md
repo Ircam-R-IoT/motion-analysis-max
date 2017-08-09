@@ -15,6 +15,10 @@ their own abstraction to receive the R-IoT's input, parse it, format it, etc :
 * `max-ircam-riot-v1.7` uses the `riot-v1.7` abstraction
 * `max-ircam-riot-v1.8` uses the `riot` abstraction
 
+To see the whole set of abstractions in action, open the patch called something
+like `riot-analysis-example.maxpat` corresponding to your R-IoT version,
+and connect your R-IoT board to get some input.
+
 #### getting started
 
 Depending on the version of the R-IoT board you are using, and the version of
