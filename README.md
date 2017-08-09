@@ -8,7 +8,6 @@ Drop all subfolders somewhere into `Documents/Max 7/Library`.
 The `max-motion-features` folder contains a collection of max abstractions
 computing some feature descriptors specific to gesture signals,
 from accelerometer and gyroscope input.  
-
 The three other folders contain nearly the same patches except that they all use
 their own abstraction to receive the R-IoT's input, parse it, format it, etc :
 
