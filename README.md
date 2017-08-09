@@ -27,3 +27,8 @@ the firmware it runs, you should check one of the three subfolders :
 To see the whole set of abstractions in action, open the patch called something
 like `riot-analysis-example.maxpat` corresponding to your board and firmware
 versions, and connect your R-IoT to get some input.
+
+There are some alternative firmwares on
+[this repository](https://github.com/Ircam-R-IoT/motion-analysis-firmware), which
+embed the computation of the same set of gesture descriptors implemented as
+abstractions in `max-motion-features` in the R-IoT.
