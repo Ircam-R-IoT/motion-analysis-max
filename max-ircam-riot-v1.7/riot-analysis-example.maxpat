@@ -1225,9 +1225,9 @@
 					"maxclass" : "newobj",
 					"numinlets" : 3,
 					"numoutlets" : 0,
-					"patching_rect" : [ 47.999939, 81.0, 156.5, 22.0 ],
+					"patching_rect" : [ 47.999939, 81.0, 150.200058, 22.0 ],
 					"style" : "",
-					"text" : "bitalino-riot-record-save"
+					"text" : "riot-record-save"
 				}
 
 			}
@@ -1536,12 +1536,12 @@
 					"fontsize" : 12.0,
 					"id" : "obj-1",
 					"maxclass" : "newobj",
-					"numinlets" : 4,
+					"numinlets" : 3,
 					"numoutlets" : 8,
-					"outlettype" : [ "", "", "", "", "", "", "int", "float" ],
+					"outlettype" : [ "", "", "", "", "", "int", "", "float" ],
 					"patching_rect" : [ 29.0, 20.0, 488.0, 22.0 ],
 					"style" : "",
-					"text" : "bitalino-riot 0 8888"
+					"text" : "riot 0 8888"
 				}
 
 			}
@@ -2333,50 +2333,50 @@
 			}
  ],
 		"dependency_cache" : [ 			{
-				"name" : "bitalino-riot.maxpat",
-				"bootpath" : "~/Projects/git-repositories/Ircam-R-IoT/motion-analysis-max/max-bitalino-riot",
+				"name" : "riot.maxpat",
+				"bootpath" : "~/Projects/git-repositories/Ircam-R-IoT/motion-analysis-max/max-ircam-riot-v1.7",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "freefall.maxpat",
-				"bootpath" : "~/Documents/Max 7/Packages/MuBuForMax 2/examples/riot",
+				"bootpath" : "~/Documents/Max 7/Packages/MuBuForMax/examples/riot",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spin.maxpat",
-				"bootpath" : "~/Documents/Max 7/Packages/MuBuForMax 2/examples/riot",
+				"bootpath" : "~/Documents/Max 7/Packages/MuBuForMax/examples/riot",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "kick.maxpat",
-				"bootpath" : "~/Documents/Max 7/Packages/MuBuForMax 2/examples/riot",
+				"bootpath" : "~/Documents/Max 7/Packages/MuBuForMax/examples/riot",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "still.maxpat",
-				"bootpath" : "~/Documents/Max 7/Packages/MuBuForMax 2/examples/riot",
+				"bootpath" : "~/Documents/Max 7/Packages/MuBuForMax/examples/riot",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "bitalino-riot-record-save.maxpat",
-				"bootpath" : "~/Projects/git-repositories/Ircam-R-IoT/motion-analysis-max/max-bitalino-riot",
+				"name" : "riot-record-save.maxpat",
+				"bootpath" : "~/Projects/git-repositories/Ircam-R-IoT/motion-analysis-max/max-ircam-riot-v1.7",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "shake.maxpat",
-				"bootpath" : "~/Documents/Max 7/Packages/MuBuForMax 2/examples/riot",
+				"bootpath" : "~/Documents/Max 7/Packages/MuBuForMax/examples/riot",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "intensity.maxpat",
-				"bootpath" : "~/Documents/Max 7/Packages/MuBuForMax 2/examples/riot",
+				"bootpath" : "~/Documents/Max 7/Packages/MuBuForMax/examples/riot",
 				"type" : "JSON",
 				"implicit" : 1
 			}
