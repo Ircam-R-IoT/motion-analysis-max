@@ -340,9 +340,9 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 33.0, 12.0, 90.0, 47.0 ],
+									"patching_rect" : [ 33.0, 12.0, 171.0, 47.0 ],
 									"style" : "",
-									"text" : "RIoT",
+									"text" : "RIoT v1.8",
 									"varname" : "HelpTitle"
 								}
 
@@ -355,9 +355,9 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 33.0, 69.0, 365.0, 24.0 ],
+									"patching_rect" : [ 33.0, 69.0, 560.0, 24.0 ],
 									"style" : "",
-									"text" : "Parse and resample data received through OSC"
+									"text" : "Parse and resample data received through OSC from the R-IoT firmware v1.8"
 								}
 
 							}
